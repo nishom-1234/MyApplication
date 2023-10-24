@@ -26,8 +26,6 @@ class MainActivity : ComponentActivity() {
                     Greeting("Android")
                     Greeting("Android")
 
-                    Greeting1("Android")
-
                 }
             }
         }
