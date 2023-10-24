@@ -24,20 +24,12 @@ class MainActivity : ComponentActivity() {
                     color = MaterialTheme.colorScheme.background
                 ) {
                     Greeting("Android")
-                    CreateAnother("abcx")
                 }
             }
-
         }
 
-
+        Log.d("createdProject","project")
     }
-
-
-}
-@Composable
-private fun CreateAnother(s: String) {
-
 }
 
 @Composable
