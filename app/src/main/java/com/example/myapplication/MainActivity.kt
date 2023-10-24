@@ -29,6 +29,19 @@ class MainActivity : ComponentActivity() {
         }
 
         Log.d("createdProject","project")
+        Log.d("createdProject","project")
+
+        Log.d("createdProject","project")
+
+        Log.d("createdProject","project")
+
+        Log.d("createdProject","project")
+
+        Log.d("createdProject","project")
+
+        Log.d("createdProject","project")
+
+
     }
 }
 
